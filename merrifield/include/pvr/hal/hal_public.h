@@ -94,4 +94,3 @@ IMG_gralloc_module_t;
 #define GRALLOC_MODULE_GET_DISPLAY_STATUS_IMG 1001
 
 #endif /* __HAL_PUBLIC_H */
-
